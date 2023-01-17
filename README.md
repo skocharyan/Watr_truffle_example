@@ -1,2 +1,2 @@
 # Watr_truffle_example
-The demo example represents the integration of the Truffle framework with the "Watr" blockchain.
+The demo example represents the integration of the Truffle framework with the "Watr" blockchain, and also demonstrates the capabilities of Ethers.js in the context of the "Watr" blockchain development.
